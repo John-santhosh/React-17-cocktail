@@ -412,6 +412,7 @@ Cocktail
 
 .active {
   color: red;
+  background-color: transparent;
 }
 
 @media screen and (max-width: 992px) {
